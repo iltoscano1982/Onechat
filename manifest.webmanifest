@@ -1,0 +1,11 @@
+{
+  "id": "/Onechat/",
+  "name": "OneChat",
+  "short_name": "OneChat",
+  "start_url": "/Onechat/",
+  "scope": "/Onechat/",
+  "display": "standalone",
+  "background_color": "#0b0d13",
+  "theme_color": "#0b0d13",
+  "description": "OneChat - social e notifiche"
+}
